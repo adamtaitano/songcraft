@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/adamtaitano/songcraft/issues"
   },
-  "homepage": "https://github.com/adamtaitano/songcraft#readme"
+  "homepage": "https://github.com/adamtaitano/songcraft#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
