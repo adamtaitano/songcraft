@@ -20,4 +20,4 @@ app.get('/post', function(req, res) {
     res.sendfile('public/post.html');
 });
 
-app.listen(3000);
+app.listen(app.listen(process.env.PORT || 3000));
