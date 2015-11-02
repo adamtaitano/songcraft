@@ -1,0 +1,19 @@
+{
+  "name": "songcraft",
+  "version": "1.0.0",
+  "description": "A place for local musicians to share their songwriting process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamtaitano/songcraft.git"
+  },
+  "author": "Adam Taitano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamtaitano/songcraft/issues"
+  },
+  "homepage": "https://github.com/adamtaitano/songcraft#readme"
+}
